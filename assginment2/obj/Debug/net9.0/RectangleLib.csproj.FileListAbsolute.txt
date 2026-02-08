@@ -1,0 +1,12 @@
+C:\Users\tetsu\source\repos\assginment2\assginment2\bin\Debug\net9.0\RectangleLib.deps.json
+C:\Users\tetsu\source\repos\assginment2\assginment2\bin\Debug\net9.0\RectangleLib.dll
+C:\Users\tetsu\source\repos\assginment2\assginment2\bin\Debug\net9.0\RectangleLib.pdb
+C:\Users\tetsu\source\repos\assginment2\assginment2\obj\Debug\net9.0\RectangleLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetsu\source\repos\assginment2\assginment2\obj\Debug\net9.0\RectangleLib.AssemblyInfoInputs.cache
+C:\Users\tetsu\source\repos\assginment2\assginment2\obj\Debug\net9.0\RectangleLib.AssemblyInfo.cs
+C:\Users\tetsu\source\repos\assginment2\assginment2\obj\Debug\net9.0\RectangleLib.csproj.CoreCompileInputs.cache
+C:\Users\tetsu\source\repos\assginment2\assginment2\obj\Debug\net9.0\RectangleLib.sourcelink.json
+C:\Users\tetsu\source\repos\assginment2\assginment2\obj\Debug\net9.0\RectangleLib.dll
+C:\Users\tetsu\source\repos\assginment2\assginment2\obj\Debug\net9.0\refint\RectangleLib.dll
+C:\Users\tetsu\source\repos\assginment2\assginment2\obj\Debug\net9.0\RectangleLib.pdb
+C:\Users\tetsu\source\repos\assginment2\assginment2\obj\Debug\net9.0\ref\RectangleLib.dll

@@ -1,4 +1,4 @@
-﻿namespace assginment2
+﻿namespace RectangleLib
 {
     public class Rectangle
     {

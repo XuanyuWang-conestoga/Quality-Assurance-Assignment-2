@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\assginment2.csproj",
-      "projectName": "assginment2",
-      "projectPath": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\assginment2.csproj",
+      "projectUniqueName": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\RectangleLib.csproj",
+      "projectName": "RectangleLib",
+      "projectPath": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\RectangleLib.csproj",
       "packagesPath": "C:\\Users\\tetsu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\obj\\",
       "projectStyle": "PackageReference",
