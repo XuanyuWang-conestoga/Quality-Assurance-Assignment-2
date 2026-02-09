@@ -2,8 +2,8 @@
 {
     public class Rectangle
     {
-        public int Width {  get; set; }
-        public int Length { get; set; }
+        private int Width;
+        private int Length;
 
         // default Constructor
         public Rectangle()
@@ -15,8 +15,8 @@
         // non-default Constructor
         public Rectangle(int width, int length)
         {
-            Width = width;
-            Length = length;
+            SetWidth(width);
+            SetLength(length);
         }
 
         public int GetLength()
@@ -29,7 +29,7 @@
         }
         public int GetWidth()
         {
-            return this.Width;
+            return Width;
         }
         public int SetWidth(int width)
         {
@@ -39,9 +39,8 @@
                 return this.Width;
             }
             else {
-                throw new Exception("Width must be between 1 and 1500");
+                throw new ArgumentOutOfRangeException("Width must be between 1 and 1500");
             }
-            
         }
         public int GetPerimeter()
         {

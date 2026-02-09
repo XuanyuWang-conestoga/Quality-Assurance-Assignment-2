@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tetsu\\source\\repos\\assginment2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB7475F6-1BB4-475A-9648-553D69C88648}|assginment2\\RectangleLib.csproj|c:\\users\\tetsu\\source\\repos\\assginment2\\assginment2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7475F6-1BB4-475A-9648-553D69C88648}|assginment2\\RectangleLib.csproj|solutionrelative:assginment2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{09C23546-838C-47A9-A155-A1317B7FF39A}|RectangleLib.Tests\\RectangleLib.Tests.csproj|c:\\users\\tetsu\\source\\repos\\assginment2\\rectanglelib.tests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09C23546-838C-47A9-A155-A1317B7FF39A}|RectangleLib.Tests\\RectangleLib.Tests.csproj|solutionrelative:rectanglelib.tests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB7475F6-1BB4-475A-9648-553D69C88648}|assginment2\\assginment2.csproj|c:\\users\\tetsu\\source\\repos\\assginment2\\assginment2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB7475F6-1BB4-475A-9648-553D69C88648}|assginment2\\assginment2.csproj|solutionrelative:assginment2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB7475F6-1BB4-475A-9648-553D69C88648}|assginment2\\RectangleLib.csproj|c:\\users\\tetsu\\source\\repos\\assginment2\\assginment2\\rectanglelib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{AB7475F6-1BB4-475A-9648-553D69C88648}|assginment2\\RectangleLib.csproj|solutionrelative:assginment2\\rectanglelib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB7475F6-1BB4-475A-9648-553D69C88648}|assginment2\\RectangleLib.csproj|c:\\users\\tetsu\\source\\repos\\assginment2\\assginment2\\rectanglelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AB7475F6-1BB4-475A-9648-553D69C88648}|assginment2\\RectangleLib.csproj|solutionrelative:assginment2\\rectanglelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,59 +21,34 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RectangleTests.cs",
               "DocumentMoniker": "C:\\Users\\tetsu\\source\\repos\\assginment2\\RectangleLib.Tests\\RectangleTests.cs",
               "RelativeDocumentMoniker": "RectangleLib.Tests\\RectangleTests.cs",
               "ToolTip": "C:\\Users\\tetsu\\source\\repos\\assginment2\\RectangleLib.Tests\\RectangleTests.cs",
               "RelativeToolTip": "RectangleLib.Tests\\RectangleTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-08T16:39:26.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RectangleLib",
-              "DocumentMoniker": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\RectangleLib.csproj",
-              "RelativeDocumentMoniker": "assginment2\\RectangleLib.csproj",
-              "ToolTip": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\RectangleLib.csproj",
-              "RelativeToolTip": "assginment2\\RectangleLib.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-08T16:36:56.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RectangleLib",
-              "DocumentMoniker": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\RectangleLib.csproj",
-              "RelativeDocumentMoniker": "assginment2\\RectangleLib.csproj",
-              "ToolTip": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\RectangleLib.csproj",
-              "RelativeToolTip": "assginment2\\RectangleLib.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-08T16:34:16.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\Rectangle.cs",
               "RelativeDocumentMoniker": "assginment2\\Rectangle.cs",
               "ToolTip": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\Rectangle.cs",
               "RelativeToolTip": "assginment2\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T15:52:12.593Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
