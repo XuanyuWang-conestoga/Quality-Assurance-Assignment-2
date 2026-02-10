@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tetsu\\source\\repos\\assginment2\\",
+  "WorkspaceRootPath": "C:\\Users\\joseg\\Documents\\Jaden stuff\\Software Quality Assurance\\Quality-Assurance-Assignment-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB7475F6-1BB4-475A-9648-553D69C88648}|assginment2\\RectangleLib.csproj|c:\\users\\tetsu\\source\\repos\\assginment2\\assginment2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB7475F6-1BB4-475A-9648-553D69C88648}|assginment2\\RectangleLib.csproj|c:\\users\\joseg\\documents\\jaden stuff\\software quality assurance\\quality-assurance-assignment-2\\assginment2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB7475F6-1BB4-475A-9648-553D69C88648}|assginment2\\RectangleLib.csproj|solutionrelative:assginment2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09C23546-838C-47A9-A155-A1317B7FF39A}|RectangleLib.Tests\\RectangleLib.Tests.csproj|c:\\users\\tetsu\\source\\repos\\assginment2\\rectanglelib.tests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09C23546-838C-47A9-A155-A1317B7FF39A}|RectangleLib.Tests\\RectangleLib.Tests.csproj|c:\\users\\joseg\\documents\\jaden stuff\\software quality assurance\\quality-assurance-assignment-2\\rectanglelib.tests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09C23546-838C-47A9-A155-A1317B7FF39A}|RectangleLib.Tests\\RectangleLib.Tests.csproj|solutionrelative:rectanglelib.tests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "RectangleTests.cs",
-              "DocumentMoniker": "C:\\Users\\tetsu\\source\\repos\\assginment2\\RectangleLib.Tests\\RectangleTests.cs",
+              "DocumentMoniker": "C:\\Users\\joseg\\Documents\\Jaden stuff\\Software Quality Assurance\\Quality-Assurance-Assignment-2\\RectangleLib.Tests\\RectangleTests.cs",
               "RelativeDocumentMoniker": "RectangleLib.Tests\\RectangleTests.cs",
-              "ToolTip": "C:\\Users\\tetsu\\source\\repos\\assginment2\\RectangleLib.Tests\\RectangleTests.cs",
+              "ToolTip": "C:\\Users\\joseg\\Documents\\Jaden stuff\\Software Quality Assurance\\Quality-Assurance-Assignment-2\\RectangleLib.Tests\\RectangleTests.cs",
               "RelativeToolTip": "RectangleLib.Tests\\RectangleTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAALcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-08T16:39:26.088Z",
               "EditorCaption": ""
@@ -37,18 +37,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\joseg\\Documents\\Jaden stuff\\Software Quality Assurance\\Quality-Assurance-Assignment-2\\assginment2\\Rectangle.cs",
               "RelativeDocumentMoniker": "assginment2\\Rectangle.cs",
-              "ToolTip": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\joseg\\Documents\\Jaden stuff\\Software Quality Assurance\\Quality-Assurance-Assignment-2\\assginment2\\Rectangle.cs",
               "RelativeToolTip": "assginment2\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T15:52:12.593Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

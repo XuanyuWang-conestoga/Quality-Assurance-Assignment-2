@@ -101,5 +101,93 @@ namespace RectangleLib.Tests
             // Assert
             Assert.Throws<ArgumentOutOfRangeException>(act);
         }
+
+        // -------------- Test for GetPerimeter --------------
+        [Test]
+        public void GetPerimeter_DefaultConstructor_Return4()
+        {
+            // Arrange
+            Rectangle defaultRectangle = new Rectangle();
+            int expected = 4;
+
+            // Act
+            int actual = defaultRectangle.GetPerimeter();
+
+            // Assert
+            Assert.That(actual, Is.EqualTo(expected));
+        }
+
+        [Test]
+        public void GetPerimeter_NonDefaultConstructorWidth10Length20_Return60()
+        {
+            // Arrange
+            Rectangle nonDefaultRectangle = new Rectangle(10, 20);
+            int expected = 60;
+
+            // Act
+            int actual = nonDefaultRectangle.GetPerimeter();
+
+            // Assert
+            Assert.That(actual, Is.EqualTo(expected));
+        }
+
+        [Test]
+        public void GetPerimeter_MaxBoundaryValues_Return6000()
+        {
+            // Arrange
+            Rectangle maxRectangle = new Rectangle(1500, 1500);
+            int expected = 6000;
+
+            // Act
+            int actual = maxRectangle.GetPerimeter();
+
+            // Assert
+            Assert.That(actual, Is.EqualTo(expected));
+        }
+
+        // -------------- Test for GetArea --------------
+        [Test]
+        public void GetArea_DefaultConstructor_Return1()
+        {
+            // Arrange
+            Rectangle defaultRectangle = new Rectangle();
+            int expected = 1;
+
+            // Act
+            int actual = defaultRectangle.GetArea();
+
+            // Assert
+            Assert.That(actual, Is.EqualTo(expected));
+        }
+
+        [Test]
+        public void GetArea_NonDefaultConstructorWidth10Length20_Return200()
+        {
+            // Arrange
+            Rectangle nonDefaultRectangle = new Rectangle(10, 20);
+            int expected = 200;
+
+            // Act
+            int actual = nonDefaultRectangle.GetArea();
+
+            // Assert
+            Assert.That(actual, Is.EqualTo(expected));
+        }
+
+        [Test]
+        public void GetArea_MaxBoundaryValues_Return2250000()
+        {
+            // Arrange
+            Rectangle maxRectangle = new Rectangle(1500, 1500);
+            int expected = 2250000;
+
+            // Act
+            int actual = maxRectangle.GetArea();
+
+            // Assert
+            Assert.That(actual, Is.EqualTo(expected));
+        }
+
+
     }
 }

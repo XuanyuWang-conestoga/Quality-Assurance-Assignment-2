@@ -821,23 +821,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tetsu\\.nuget\\packages\\": {},
+    "C:\\Users\\joseg\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tetsu\\source\\repos\\assginment2\\RectangleLib.Tests\\RectangleLib.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\joseg\\Documents\\Jaden stuff\\Software Quality Assurance\\Quality-Assurance-Assignment-2\\RectangleLib.Tests\\RectangleLib.Tests.csproj",
       "projectName": "RectangleLib.Tests",
-      "projectPath": "C:\\Users\\tetsu\\source\\repos\\assginment2\\RectangleLib.Tests\\RectangleLib.Tests.csproj",
-      "packagesPath": "C:\\Users\\tetsu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tetsu\\source\\repos\\assginment2\\RectangleLib.Tests\\obj\\",
+      "projectPath": "C:\\Users\\joseg\\Documents\\Jaden stuff\\Software Quality Assurance\\Quality-Assurance-Assignment-2\\RectangleLib.Tests\\RectangleLib.Tests.csproj",
+      "packagesPath": "C:\\Users\\joseg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joseg\\Documents\\Jaden stuff\\Software Quality Assurance\\Quality-Assurance-Assignment-2\\RectangleLib.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\tetsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joseg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -853,8 +853,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\RectangleLib.csproj": {
-              "projectPath": "C:\\Users\\tetsu\\source\\repos\\assginment2\\assginment2\\RectangleLib.csproj"
+            "C:\\Users\\joseg\\Documents\\Jaden stuff\\Software Quality Assurance\\Quality-Assurance-Assignment-2\\assginment2\\RectangleLib.csproj": {
+              "projectPath": "C:\\Users\\joseg\\Documents\\Jaden stuff\\Software Quality Assurance\\Quality-Assurance-Assignment-2\\assginment2\\RectangleLib.csproj"
             }
           }
         }

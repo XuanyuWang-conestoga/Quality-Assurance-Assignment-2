@@ -21,11 +21,13 @@
 
         public int GetLength()
         {
-            return 1;
+            return Length;
         }
+
         public int SetLength(int length)
         {
-            return 1;
+            this.Length = length;
+            return this.Length;
         }
         public int GetWidth()
         {
@@ -44,11 +46,11 @@
         }
         public int GetPerimeter()
         {
-            return 1;
+            return (Length + Width)  * 2 ;
         }
         public int GetArea()
         {
-            return 1;
+            return   Width * Length;
         }
     }
 }
