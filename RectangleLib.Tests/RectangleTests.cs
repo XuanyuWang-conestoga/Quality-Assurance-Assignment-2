@@ -189,5 +189,98 @@ namespace RectangleLib.Tests
         }
 
 
+
+        // --- GetLength Unit Tests ---
+
+        [Test] // Required to run in Test Explorer [cite: 389]
+        public void GetLength_InputLength1_Returns1()
+        {
+            // Arrange: Initialize test data and object
+            int length = 1;
+            int width = 1;
+            Rectangle rect = new Rectangle(length, width);
+
+            // Act: Call the method being tested
+            int result = rect.GetLength();
+
+            // Assert: Verify the actual result matches expected [cite: 60, 62]
+            Assert.That(result, Is.EqualTo(length));
+        }
+
+        [Test]
+        public void GetLength_InputLength1500_Returns1500()
+        {
+            // Arrange
+            int length = 1500;
+            int width = 1;
+            Rectangle rect = new Rectangle(width, length);
+
+            // Act
+            int result = rect.GetLength();
+
+            // Assert
+            Assert.That(result, Is.EqualTo(length));
+        }
+
+        [Test]
+        public void GetLength_InputLength750_Returns750()
+        {
+            // Arrange
+            int length = 750;
+            int width = 1;
+            Rectangle rect = new Rectangle(width, length);
+
+            // Act
+            int result = rect.GetLength();
+
+            // Assert
+            Assert.That(result, Is.EqualTo(length));
+        }
+
+        // --- SetLength Unit Tests ---
+
+        [Test]
+        public void SetLength_Input1_Returns1()
+        {
+            // Arrange
+            Rectangle rect = new Rectangle();
+            int newLength = 1;
+
+            // Act
+            int result = rect.SetLength(newLength);
+
+            // Assert
+            Assert.That(result, Is.EqualTo(newLength));
+        }
+
+        [Test]
+        public void SetLength_Input1500_Returns1500()
+        {
+            // Arrange
+            Rectangle rect = new Rectangle();
+            int newLength = 1500;
+
+            // Act
+            int result = rect.SetLength(newLength);
+
+            // Assert
+            Assert.That(result, Is.EqualTo(newLength));
+        }
+
+        [Test]
+        public void SetLength_Input500_Returns500()
+        {
+            // Arrange
+            Rectangle rect = new Rectangle();
+            int newLength = 500;
+
+            // Act
+            int result = rect.SetLength(newLength);
+
+            // Assert
+            Assert.That(result, Is.EqualTo(newLength));
+        }
+
+
     }
 }

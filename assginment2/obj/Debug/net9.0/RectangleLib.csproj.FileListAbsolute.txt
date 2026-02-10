@@ -22,3 +22,15 @@ C:\Users\joseg\Documents\Jaden stuff\Software Quality Assurance\Quality-Assuranc
 C:\Users\joseg\Documents\Jaden stuff\Software Quality Assurance\Quality-Assurance-Assignment-2\assginment2\obj\Debug\net9.0\refint\RectangleLib.dll
 C:\Users\joseg\Documents\Jaden stuff\Software Quality Assurance\Quality-Assurance-Assignment-2\assginment2\obj\Debug\net9.0\RectangleLib.pdb
 C:\Users\joseg\Documents\Jaden stuff\Software Quality Assurance\Quality-Assurance-Assignment-2\assginment2\obj\Debug\net9.0\ref\RectangleLib.dll
+C:\Users\jimmy\Documents\Conestoga\term_4\Quality Assurance\test\Quality-Assurance-Assignment-2\assginment2\bin\Debug\net9.0\RectangleLib.deps.json
+C:\Users\jimmy\Documents\Conestoga\term_4\Quality Assurance\test\Quality-Assurance-Assignment-2\assginment2\bin\Debug\net9.0\RectangleLib.dll
+C:\Users\jimmy\Documents\Conestoga\term_4\Quality Assurance\test\Quality-Assurance-Assignment-2\assginment2\bin\Debug\net9.0\RectangleLib.pdb
+C:\Users\jimmy\Documents\Conestoga\term_4\Quality Assurance\test\Quality-Assurance-Assignment-2\assginment2\obj\Debug\net9.0\RectangleLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\Documents\Conestoga\term_4\Quality Assurance\test\Quality-Assurance-Assignment-2\assginment2\obj\Debug\net9.0\RectangleLib.AssemblyInfoInputs.cache
+C:\Users\jimmy\Documents\Conestoga\term_4\Quality Assurance\test\Quality-Assurance-Assignment-2\assginment2\obj\Debug\net9.0\RectangleLib.AssemblyInfo.cs
+C:\Users\jimmy\Documents\Conestoga\term_4\Quality Assurance\test\Quality-Assurance-Assignment-2\assginment2\obj\Debug\net9.0\RectangleLib.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Documents\Conestoga\term_4\Quality Assurance\test\Quality-Assurance-Assignment-2\assginment2\obj\Debug\net9.0\RectangleLib.sourcelink.json
+C:\Users\jimmy\Documents\Conestoga\term_4\Quality Assurance\test\Quality-Assurance-Assignment-2\assginment2\obj\Debug\net9.0\RectangleLib.dll
+C:\Users\jimmy\Documents\Conestoga\term_4\Quality Assurance\test\Quality-Assurance-Assignment-2\assginment2\obj\Debug\net9.0\refint\RectangleLib.dll
+C:\Users\jimmy\Documents\Conestoga\term_4\Quality Assurance\test\Quality-Assurance-Assignment-2\assginment2\obj\Debug\net9.0\RectangleLib.pdb
+C:\Users\jimmy\Documents\Conestoga\term_4\Quality Assurance\test\Quality-Assurance-Assignment-2\assginment2\obj\Debug\net9.0\ref\RectangleLib.dll

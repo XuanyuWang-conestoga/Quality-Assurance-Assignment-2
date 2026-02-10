@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\joseg\\.nuget\\packages\\": {},
+    "C:\\Users\\jimmy\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joseg\\Documents\\Jaden stuff\\Software Quality Assurance\\Quality-Assurance-Assignment-2\\assginment2\\RectangleLib.csproj",
+      "projectUniqueName": "C:\\Users\\jimmy\\Documents\\Conestoga\\term_4\\Quality Assurance\\test\\Quality-Assurance-Assignment-2\\assginment2\\RectangleLib.csproj",
       "projectName": "RectangleLib",
-      "projectPath": "C:\\Users\\joseg\\Documents\\Jaden stuff\\Software Quality Assurance\\Quality-Assurance-Assignment-2\\assginment2\\RectangleLib.csproj",
-      "packagesPath": "C:\\Users\\joseg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joseg\\Documents\\Jaden stuff\\Software Quality Assurance\\Quality-Assurance-Assignment-2\\assginment2\\obj\\",
+      "projectPath": "C:\\Users\\jimmy\\Documents\\Conestoga\\term_4\\Quality Assurance\\test\\Quality-Assurance-Assignment-2\\assginment2\\RectangleLib.csproj",
+      "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jimmy\\Documents\\Conestoga\\term_4\\Quality Assurance\\test\\Quality-Assurance-Assignment-2\\assginment2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\joseg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jimmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -52,7 +52,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

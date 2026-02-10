@@ -26,8 +26,16 @@
 
         public int SetLength(int length)
         {
-            this.Length = length;
-            return this.Length;
+            // Add validation just like you did for Width
+            if (length > 0 && length <= 1500)
+            {
+                this.Length = length;
+                return this.Length;
+            }
+            else
+            {
+                throw new ArgumentOutOfRangeException("Length must be between 1 and 1500");
+            }
         }
         public int GetWidth()
         {
